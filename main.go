@@ -1,4 +1,5 @@
 // Download the helper library from https://www.twilio.com/docs/go/install
+// Sends text message
 package main
 
 import (
